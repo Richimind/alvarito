@@ -1,0 +1,620 @@
+{
+  "startUrl": "https://acaballero.es/",
+  "pagesQueued": 27,
+  "assetsQueued": 654,
+  "downloaded": 532,
+  "failures": [
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Logo-alvaro-caballeo.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Logo-alvaro-caballeo-1280x351.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Logo-alvaro-caballeo-980x268.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Logo-alvaro-caballeo-480x131.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/11/FOTO_SOBRE_MI_vertical.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/ventana-nueva.gif",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-14-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-13-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-12-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-11-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-10-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-9-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-8-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-7-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-6-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-5-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-4-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-3-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-1-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-15-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-14-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-14-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-14-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-13-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-13-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-13-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-12-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-12-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-12-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-11-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-11-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-11-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-10-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-10-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-10-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-9-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-9-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-9-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-8-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-8-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-8-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-7-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-7-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-7-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-6-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-6-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-6-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-5-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-5-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-5-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-4-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-4-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-4-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-3-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-3-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-3-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-1-1280x853.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-1-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-1-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-15-1280x853.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-15-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-15-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Volta-interiorismo-2-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-8-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/IMG_6959.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-5-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-4-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-3-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-1.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/IMG_7189.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-8-1280x1010.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-8-980x773.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-8-480x379.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/IMG_6959-480x430.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-5-1280x765.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-5-980x585.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-5-480x287.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-4-1280x1425.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-4-980x1091.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-4-480x534.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-3-1280x854.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-3-980x653.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-3-480x320.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-1-1280x549.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-1-980x420.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-1-480x206.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/IMG_7189-1280x777.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/IMG_7189-980x595.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/IMG_7189-480x291.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-2.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-9-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-7-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-6-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-5-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Oumar.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-10-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-4.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Mariam-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-9-1280x1920.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-9-980x1470.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-9-480x720.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-7-1280x1920.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-7-980x1470.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-7-480x720.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-6-1280x1920.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-6-980x1470.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-6-480x720.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-5-1280x1600.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-5-980x1225.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-5-480x600.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Oumar-980x1225.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Oumar-480x600.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-10-1280x1920.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-10-980x1470.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-10-480x720.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-4-1280x1920.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-4-980x1470.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/portrait-4-480x720.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Mariam-1280x1920.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Mariam-980x1470.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Mariam-480x720.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/080-Barcelona.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/BioCutura.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Logo_Proddigia_blanco.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Llotja.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Cambra.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/MaenStudios.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Unicco.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/080-Barcelona-480x480.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Atlas-480x480.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/BioCutura-1280x1280.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/BioCutura-980x980.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/BioCutura-480x480.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Logo_Proddigia_blanco-480x340.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Llotja-480x480.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Cambra-1280x1280.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Cambra-980x980.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Cambra-480x480.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/MaenStudios-1280x1280.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/MaenStudios-980x980.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/MaenStudios-480x480.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Unicco-480x480.png",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Fotografia-de-interiorismo-Barcelona-volta-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Fotografia-empresas-Barcelona-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/uploads/2024/10/Fotografia-de-retratos-Barcelona-scaled.jpg",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/themes/Divi/js/[%5E",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-content/themes/Divi/js/.concat(y,",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-includes/js/mediaelement/$1",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-includes/js/mediaelement/+e.originalNode.getAttribute(",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-includes/js/mediaelement/this.response",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-includes/js/mediaelement/e",
+      "error": "404 Not Found"
+    },
+    {
+      "url": "https://acaballero.es/wp-includes/js/mediaelement/o[0].src",
+      "error": "404 Not Found"
+    }
+  ]
+}
