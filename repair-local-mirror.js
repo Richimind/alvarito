@@ -38,8 +38,6 @@ const linkMap = {
   et_pb_row_9: "./portfolio/perdius/index.html",
   et_pb_row_10: "./portfolio/volta/index.html",
   et_pb_row_11: "./portfolio/matadepera/index.html",
-  et_pb_row_12: "./portfolio/atlas/index.html",
-  et_pb_row_13: "./portfolio/portrait/index.html",
 };
 
 function injectProjectClickFallback(html) {
