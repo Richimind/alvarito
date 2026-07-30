@@ -36,7 +36,6 @@ const linkMap = {
   et_pb_row_7: "./portfolio/barcelona/index.html",
   et_pb_row_8: "./terranova/index.html",
   et_pb_row_9: "./portfolio/perdius/index.html",
-  et_pb_row_10: "./portfolio/volta/index.html",
   et_pb_row_11: "./portfolio/matadepera/index.html",
 };
 
