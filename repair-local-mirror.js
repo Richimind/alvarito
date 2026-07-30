@@ -70,8 +70,102 @@ function injectProjectClickFallback(html) {
   return html.replace("</body>", `${fallback}\n</body>`);
 }
 
+function repairHomeVideo(html) {
+  const marker = "<!-- local-home-video-repair -->";
+  const repair = `${marker}
+<style>
+.et_pb_section_video.local-home-video-ready {
+  position: relative !important;
+  overflow: hidden !important;
+  background: #292929 !important;
+}
+.et_pb_section_video.local-home-video-ready:before {
+  display: none !important;
+}
+.et_pb_section_video.local-home-video-ready .et_pb_section_video_bg,
+.et_pb_section_video.local-home-video-ready > div {
+  visibility: visible !important;
+}
+.et_pb_section_video.local-home-video-ready .et_pb_section_video_bg {
+  position: absolute !important;
+  inset: 0 !important;
+  display: block !important;
+  z-index: 0 !important;
+  overflow: hidden !important;
+}
+.et_pb_section_video.local-home-video-ready .et_pb_section_video_bg video {
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  width: 100% !important;
+  height: 100% !important;
+  min-width: 100% !important;
+  min-height: 100% !important;
+  object-fit: cover !important;
+  transform: translate(-50%, -50%) !important;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+.et_pb_section_video.local-home-video-ready .et_pb_row {
+  position: relative !important;
+  z-index: 2 !important;
+  visibility: visible !important;
+}
+</style>
+<script>
+(function () {
+  function setupHomeVideos() {
+    Array.prototype.forEach.call(document.querySelectorAll(".et_pb_section_video"), function (section) {
+      var video = section.querySelector("video");
+      if (!video) return;
+      section.classList.remove("et_pb_preload");
+      section.classList.add("local-home-video-ready");
+      video.muted = true;
+      video.autoplay = true;
+      video.loop = true;
+      video.playsInline = true;
+      video.setAttribute("muted", "");
+      video.setAttribute("autoplay", "");
+      video.setAttribute("loop", "");
+      video.setAttribute("playsinline", "");
+      video.setAttribute("preload", "auto");
+
+      function reveal() {
+        section.classList.remove("et_pb_preload");
+        section.classList.add("local-home-video-ready");
+      }
+
+      video.addEventListener("loadeddata", reveal);
+      video.addEventListener("canplay", reveal);
+      video.addEventListener("playing", reveal);
+      try { video.load(); } catch (error) {}
+      var playPromise = video.play();
+      if (playPromise && typeof playPromise.catch === "function") {
+        playPromise.catch(function () { reveal(); });
+      }
+      reveal();
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", setupHomeVideos);
+  } else {
+    setupHomeVideos();
+  }
+  window.addEventListener("load", setupHomeVideos);
+}());
+</script>`;
+
+  if (html.includes(marker)) {
+    return html.replace(new RegExp(`${marker}[\\s\\S]*?<\\/script>`), repair);
+  }
+  return html.replace("</body>", `${repair}\n</body>`);
+}
+
 if (fs.existsSync(home)) {
-  fs.writeFileSync(home, injectProjectClickFallback(fs.readFileSync(home, "utf8")));
+  const homeHtml = fs.readFileSync(home, "utf8");
+  fs.writeFileSync(home, repairHomeVideo(injectProjectClickFallback(homeHtml)));
 }
 
 const aboutPage = path.join(root, "sobre-mi/index.html");
